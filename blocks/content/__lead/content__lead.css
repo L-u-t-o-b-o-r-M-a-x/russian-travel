@@ -1,0 +1,9 @@
+.content__lead {
+  padding-top: 56px;
+}
+
+@media screen and (max-width: 1124px) {
+  .content__lead {
+    padding-top: 48px;
+  }
+}
