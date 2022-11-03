@@ -14,6 +14,7 @@
 
 @media screen and (max-width: 568px) {
   .header {
+    align-items: center;
     padding: 0 16px;
   }
 }

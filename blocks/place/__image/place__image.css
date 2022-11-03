@@ -1,8 +1,6 @@
-.lead__image {
+.place__image {
   width: 100%;
-  margin-bottom: 8px;
   object-fit: cover;
   object-position: center;
 }
-
 
