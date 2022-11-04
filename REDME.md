@@ -6,7 +6,7 @@
 
 ### В проекте использовались Grid и Flex контейнеры
 
-## Ссылка на проект:
+## Ссылка на проект: https://l-u-t-o-b-o-r-m-a-x.github.io/russian-travel/
 
 
 
