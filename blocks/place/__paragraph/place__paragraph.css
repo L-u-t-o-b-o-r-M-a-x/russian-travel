@@ -17,7 +17,11 @@
 
 @media screen and (max-width: 568px) {
   .place__paragraph {
-    max-width: 288px;
+    max-width: 287px;
+  }
+
+  .place__paragraph:not(:last-child) {
+    margin-bottom: 24px;
   }
 }
 
