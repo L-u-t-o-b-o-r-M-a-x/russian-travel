@@ -3,12 +3,13 @@
   align-items: center;
   justify-content: space-between;
   padding: 92px 48px 0;
-  font-family: 'Inter', Arial, sans-serif;
 }
 
 @media screen and (max-width: 984px) {
   .footer  {
-    padding: 88px 24px 0;
+    padding-top: 88px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 }
 
@@ -16,7 +17,8 @@
   .footer  {
     flex-direction: column;
     align-items: flex-start;
-    padding: 64px 0 0 16px;
+    padding-top: 64px;
+    padding-left: 16px;
   }
 }
 

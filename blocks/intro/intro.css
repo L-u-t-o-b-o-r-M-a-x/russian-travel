@@ -2,7 +2,6 @@
   justify-self: start;
   max-width: 690px;
   padding-left: 148px;
-  font-family: 'Inter', Arial, sans-serif;
 }
 
 @media screen and (max-width: 1124px) {
@@ -16,7 +15,6 @@
   .intro {
     max-width: 720px;
     padding-left: 24px;
-    padding-right: 24px;
   }
 }
 
@@ -24,6 +22,5 @@
   .intro {
     max-width: 288px;
     padding-left: 16px;
-    padding-right: 16px;
   }
 }
