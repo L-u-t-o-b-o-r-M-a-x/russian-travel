@@ -3,7 +3,6 @@
   align-items: center;
   justify-content: space-between;
   padding: 92px 48px 0;
-  outline: 1px solid red;
 }
 
 @media screen and (max-width: 984px) {

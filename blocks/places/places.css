@@ -1,7 +1,6 @@
 .places {
   display: grid;
   row-gap: 80px;
-  outline: 1px solid red;
 }
 
 @media screen and (max-width: 984px) {

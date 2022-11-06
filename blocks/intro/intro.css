@@ -2,7 +2,6 @@
   justify-self: start;
   max-width: 690px;
   padding-left: 148px;
-  outline: 1px solid red;
 }
 
 @media screen and (max-width: 1124px) {
