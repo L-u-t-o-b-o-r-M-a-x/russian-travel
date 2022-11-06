@@ -3,6 +3,7 @@
   align-items: flex-end;
   justify-content: space-between;
   padding: 0 48px;
+  outline: 1px solid green;
 }
 
 @media screen and (max-width: 984px) {

@@ -13,7 +13,7 @@
   }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 678px) {
   .place__title {
     justify-self: start;
     padding-left: 16px;
